@@ -1,8 +1,3 @@
-#Ana Clara Soares Silva RA: 10721867 Giuliana Mamani Copa RA:
-
-
-
-
 # Estrutura inicial do sistema
 filmes = {
     1: {'nome': 'Filme 1', 'sessoes': {1: {'assentos': 50, 'vendas': {'inteira': 0, 'meia': 0, 'vip': 0}, 'acumulado': {'inteira': 0, 'meia': 0, 'vip': 0}, 'poltronas': ['L'] * 50},
